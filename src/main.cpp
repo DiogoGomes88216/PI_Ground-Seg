@@ -5,9 +5,9 @@
 #include <pcl/point_cloud.h>
 #include <pcl/point_types.h>
 
-#include "groundSeg.h"
+#include "../include/groundSeg.h" //VSCODE nao reconhece "groundSeg.h" - só para tirar squiggle do VSCODE
 
-#define grid_size 1.0f
+#define grid_size 0.5f
 
 ros::Publisher pub;
 
