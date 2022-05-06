@@ -11,6 +11,7 @@ struct point_index_idx
 
   point_index_idx (unsigned int idx_, unsigned int cloud_point_index_) : idx (idx_), cloud_point_index (cloud_point_index_) {}
   bool operator < (const point_index_idx &p) const { return (idx < p.idx); }
+  bool operator > (const point_index_idx &p) const { return (idx > p.idx); }
 };
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -136,7 +137,7 @@ void pcl::GroundSeg::applyFilterIndices (Indices &indices)
             }
           }
   
-          //Classificação AQUI
+          //Classificação
           if((min_z < zeta) && ((max_z - min_z) > epsilon))
           {
             for (unsigned int i = first_index + 1; i < last_index; ++i)
@@ -161,6 +162,5 @@ void pcl::GroundSeg::applyFilterIndices (Indices &indices)
 
         oii = indices.size ();
         // Resize the output arrays
-        indices.resize (oii);
-        
+        indices.resize (oii);   
 }
