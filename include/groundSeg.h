@@ -8,21 +8,20 @@
 #define delta 0.1f
 #define epsilon 0.3f
 #define zeta 0.0f
-#define f 0.8f
-
+#define gamma 0.15f
+#define f 5.0f
 
 namespace pcl
 {
-  //template <typename pcl::PointXYZI>
-  class GroundSeg: public FilterIndices<pcl::PointXYZI>
+  class GroundSeg: public FilterIndices<pcl::PointXYZ>
   {
     protected:
-      using Filter<pcl::PointXYZI>::filter_name_;
-      using Filter<pcl::PointXYZI>::getClassName;
-      using Filter<pcl::PointXYZI>::input_;
-      using Filter<pcl::PointXYZI>::indices_;
+      using Filter<pcl::PointXYZ>::filter_name_;
+      using Filter<pcl::PointXYZ>::getClassName;
+      using Filter<pcl::PointXYZ>::input_;
+      using Filter<pcl::PointXYZ>::indices_;
 
-      using PointCloud = typename FilterIndices<pcl::PointXYZI>::PointCloud;
+      using PointCloud = typename FilterIndices<pcl::PointXYZ>::PointCloud;
 
     public:
       GroundSeg (const float resolution)
@@ -30,22 +29,20 @@ namespace pcl
         setResolution (resolution);
         filter_name_ = "GroundSeg";
       }
-      ~GroundSeg ()
-      {
-      }
+      ~GroundSeg (){}
+      
       inline void setResolution (const float resolution)
       {
         resolution_ = resolution;
-        // Use multiplications instead of divisions
-        inverse_resolution_ = 1.0f / resolution_;
       }
       inline float getResolution () { return (resolution_); }
+
+      void getGround(PointCloud &ground);
+      Indices nonGroundIndices;
 
     protected:
       /** \brief The resolution. */
       float resolution_;
-      /** \brief Internal resolution stored as 1/resolution_ for efficiency reasons. */
-      float inverse_resolution_;
 
       void applyFilter (PointCloud &output) override;
 
@@ -55,7 +52,6 @@ namespace pcl
       }
 
       void applyFilterIndices (Indices &indices);
-        
   };
 }
 #endif
