@@ -26,3 +26,7 @@ include_directories(
 
 add_executable(main src/main.cpp src/groundSeg.cpp include/groundSeg.h)
 target_link_libraries(main ${catkin_LIBRARIES})
+find_package(PCL REQUIRED)
+include_directories(${PCL_INCLUDE_DIRS})
+link_directories(${PCL_LIBRARY_DIRS})
+add_definitions(${PCL_DEFINITIONS})

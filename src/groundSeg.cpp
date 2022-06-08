@@ -2,6 +2,7 @@
 #include <pcl/common/io.h>
 #include <pcl/common/point_tests.h>
 #include <pcl/filters/extract_indices.h>
+
 #include "../include/groundSeg.h" //VSCODE nao reconhece "groundSeg.h" - só para tirar squiggle do VSCODE
 
 #include <chrono>
@@ -45,7 +46,7 @@ void pcl::GroundSeg::applyFilter (PointCloud &output)
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-void pcl::GroundSeg::applyFilterIndices (Indices &indices)
+void pcl::GroundSeg::applyFilterIndices (std::vector<int> &indices)
 {
   auto start_division = high_resolution_clock::now();
 
