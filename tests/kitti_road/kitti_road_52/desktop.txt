@@ -1,0 +1,616 @@
+-------------START-----------------
+Grid Divison Time(secs): 0.047085
+Classification Time(secs): 0.006342
+Total Time(secs): 0.053427
+Points before: 114217
+Points after : 74081
+Points removed : 40136
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.049781
+Classification Time(secs): 0.006349
+Total Time(secs): 0.056130
+Points before: 114048
+Points after : 73469
+Points removed : 40579
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.049370
+Classification Time(secs): 0.007846
+Total Time(secs): 0.057216
+Points before: 113719
+Points after : 72343
+Points removed : 41376
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.047395
+Classification Time(secs): 0.007534
+Total Time(secs): 0.054929
+Points before: 113513
+Points after : 71522
+Points removed : 41991
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.046221
+Classification Time(secs): 0.005763
+Total Time(secs): 0.051984
+Points before: 113459
+Points after : 70234
+Points removed : 43225
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.049178
+Classification Time(secs): 0.005656
+Total Time(secs): 0.054834
+Points before: 113327
+Points after : 69314
+Points removed : 44013
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.044961
+Classification Time(secs): 0.006295
+Total Time(secs): 0.051256
+Points before: 113294
+Points after : 68479
+Points removed : 44815
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.044985
+Classification Time(secs): 0.006908
+Total Time(secs): 0.051893
+Points before: 113549
+Points after : 67724
+Points removed : 45825
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.045775
+Classification Time(secs): 0.006128
+Total Time(secs): 0.051903
+Points before: 113593
+Points after : 66802
+Points removed : 46791
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.052423
+Classification Time(secs): 0.006183
+Total Time(secs): 0.058606
+Points before: 113397
+Points after : 66056
+Points removed : 47341
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.046608
+Classification Time(secs): 0.005596
+Total Time(secs): 0.052204
+Points before: 113082
+Points after : 64994
+Points removed : 48088
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.046626
+Classification Time(secs): 0.006254
+Total Time(secs): 0.052880
+Points before: 112733
+Points after : 63992
+Points removed : 48741
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.048203
+Classification Time(secs): 0.005245
+Total Time(secs): 0.053448
+Points before: 112477
+Points after : 63132
+Points removed : 49345
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.045373
+Classification Time(secs): 0.005626
+Total Time(secs): 0.050999
+Points before: 112408
+Points after : 62616
+Points removed : 49792
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.047773
+Classification Time(secs): 0.005527
+Total Time(secs): 0.053300
+Points before: 112269
+Points after : 62191
+Points removed : 50078
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.045191
+Classification Time(secs): 0.005144
+Total Time(secs): 0.050335
+Points before: 112056
+Points after : 61654
+Points removed : 50402
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.045901
+Classification Time(secs): 0.005201
+Total Time(secs): 0.051102
+Points before: 111935
+Points after : 61006
+Points removed : 50929
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.045564
+Classification Time(secs): 0.006513
+Total Time(secs): 0.052077
+Points before: 111845
+Points after : 60501
+Points removed : 51344
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.045840
+Classification Time(secs): 0.006664
+Total Time(secs): 0.052504
+Points before: 111732
+Points after : 60115
+Points removed : 51617
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.047098
+Classification Time(secs): 0.005319
+Total Time(secs): 0.052417
+Points before: 111808
+Points after : 59767
+Points removed : 52041
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.047896
+Classification Time(secs): 0.008177
+Total Time(secs): 0.056073
+Points before: 112026
+Points after : 59922
+Points removed : 52104
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.049103
+Classification Time(secs): 0.006650
+Total Time(secs): 0.055753
+Points before: 111945
+Points after : 59367
+Points removed : 52578
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.047894
+Classification Time(secs): 0.006821
+Total Time(secs): 0.054715
+Points before: 112110
+Points after : 59417
+Points removed : 52693
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.046809
+Classification Time(secs): 0.006050
+Total Time(secs): 0.052859
+Points before: 111857
+Points after : 59430
+Points removed : 52427
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.045006
+Classification Time(secs): 0.006009
+Total Time(secs): 0.051015
+Points before: 112595
+Points after : 59659
+Points removed : 52936
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.050939
+Classification Time(secs): 0.005614
+Total Time(secs): 0.056553
+Points before: 112743
+Points after : 59950
+Points removed : 52793
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.047416
+Classification Time(secs): 0.006433
+Total Time(secs): 0.053849
+Points before: 112963
+Points after : 60253
+Points removed : 52710
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.054116
+Classification Time(secs): 0.008314
+Total Time(secs): 0.062430
+Points before: 113062
+Points after : 60238
+Points removed : 52824
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.048484
+Classification Time(secs): 0.006425
+Total Time(secs): 0.054909
+Points before: 113216
+Points after : 60175
+Points removed : 53041
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.049117
+Classification Time(secs): 0.005601
+Total Time(secs): 0.054718
+Points before: 113440
+Points after : 59706
+Points removed : 53734
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.047500
+Classification Time(secs): 0.007323
+Total Time(secs): 0.054823
+Points before: 113289
+Points after : 59517
+Points removed : 53772
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.048720
+Classification Time(secs): 0.006441
+Total Time(secs): 0.055161
+Points before: 113324
+Points after : 59514
+Points removed : 53810
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.048346
+Classification Time(secs): 0.007509
+Total Time(secs): 0.055855
+Points before: 113460
+Points after : 59843
+Points removed : 53617
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.051350
+Classification Time(secs): 0.005244
+Total Time(secs): 0.056594
+Points before: 113419
+Points after : 59617
+Points removed : 53802
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.049326
+Classification Time(secs): 0.005592
+Total Time(secs): 0.054918
+Points before: 113482
+Points after : 59312
+Points removed : 54170
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.048455
+Classification Time(secs): 0.007056
+Total Time(secs): 0.055511
+Points before: 113702
+Points after : 59213
+Points removed : 54489
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.046865
+Classification Time(secs): 0.005831
+Total Time(secs): 0.052696
+Points before: 113651
+Points after : 59472
+Points removed : 54179
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.050629
+Classification Time(secs): 0.006921
+Total Time(secs): 0.057550
+Points before: 113494
+Points after : 59119
+Points removed : 54375
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.052593
+Classification Time(secs): 0.007169
+Total Time(secs): 0.059762
+Points before: 113634
+Points after : 59634
+Points removed : 54000
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.047589
+Classification Time(secs): 0.005273
+Total Time(secs): 0.052862
+Points before: 113697
+Points after : 59954
+Points removed : 53743
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.046737
+Classification Time(secs): 0.007785
+Total Time(secs): 0.054522
+Points before: 113534
+Points after : 60001
+Points removed : 53533
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.047026
+Classification Time(secs): 0.007443
+Total Time(secs): 0.054469
+Points before: 113519
+Points after : 59805
+Points removed : 53714
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.048701
+Classification Time(secs): 0.006164
+Total Time(secs): 0.054865
+Points before: 113470
+Points after : 59751
+Points removed : 53719
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.047385
+Classification Time(secs): 0.005817
+Total Time(secs): 0.053202
+Points before: 113433
+Points after : 59365
+Points removed : 54068
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.046037
+Classification Time(secs): 0.005755
+Total Time(secs): 0.051792
+Points before: 113230
+Points after : 59688
+Points removed : 53542
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.048714
+Classification Time(secs): 0.005246
+Total Time(secs): 0.053960
+Points before: 113095
+Points after : 59348
+Points removed : 53747
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.045985
+Classification Time(secs): 0.005032
+Total Time(secs): 0.051017
+Points before: 113067
+Points after : 59364
+Points removed : 53703
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.044908
+Classification Time(secs): 0.005109
+Total Time(secs): 0.050017
+Points before: 113061
+Points after : 59537
+Points removed : 53524
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.046342
+Classification Time(secs): 0.006282
+Total Time(secs): 0.052624
+Points before: 112977
+Points after : 59725
+Points removed : 53252
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.044805
+Classification Time(secs): 0.008261
+Total Time(secs): 0.053066
+Points before: 112795
+Points after : 59623
+Points removed : 53172
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.044893
+Classification Time(secs): 0.008111
+Total Time(secs): 0.053004
+Points before: 112948
+Points after : 59986
+Points removed : 52962
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.049398
+Classification Time(secs): 0.005375
+Total Time(secs): 0.054773
+Points before: 112877
+Points after : 60164
+Points removed : 52713
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.049801
+Classification Time(secs): 0.005417
+Total Time(secs): 0.055218
+Points before: 112768
+Points after : 60175
+Points removed : 52593
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.044384
+Classification Time(secs): 0.005256
+Total Time(secs): 0.049640
+Points before: 112642
+Points after : 60434
+Points removed : 52208
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.051387
+Classification Time(secs): 0.006378
+Total Time(secs): 0.057765
+Points before: 112553
+Points after : 60665
+Points removed : 51888
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.050471
+Classification Time(secs): 0.005402
+Total Time(secs): 0.055873
+Points before: 112463
+Points after : 60954
+Points removed : 51509
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.045421
+Classification Time(secs): 0.006187
+Total Time(secs): 0.051608
+Points before: 112342
+Points after : 61312
+Points removed : 51030
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.045986
+Classification Time(secs): 0.005536
+Total Time(secs): 0.051522
+Points before: 112324
+Points after : 61796
+Points removed : 50528
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.046448
+Classification Time(secs): 0.006347
+Total Time(secs): 0.052795
+Points before: 112233
+Points after : 61851
+Points removed : 50382
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.053007
+Classification Time(secs): 0.010343
+Total Time(secs): 0.063350
+Points before: 112009
+Points after : 62141
+Points removed : 49868
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.044902
+Classification Time(secs): 0.005840
+Total Time(secs): 0.050742
+Points before: 112040
+Points after : 62478
+Points removed : 49562
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.045049
+Classification Time(secs): 0.005148
+Total Time(secs): 0.050197
+Points before: 111982
+Points after : 62521
+Points removed : 49461
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.045001
+Classification Time(secs): 0.005120
+Total Time(secs): 0.050121
+Points before: 111923
+Points after : 63097
+Points removed : 48826
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.045671
+Classification Time(secs): 0.005992
+Total Time(secs): 0.051663
+Points before: 111916
+Points after : 62912
+Points removed : 49004
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.045327
+Classification Time(secs): 0.005118
+Total Time(secs): 0.050445
+Points before: 111850
+Points after : 63608
+Points removed : 48242
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.047532
+Classification Time(secs): 0.005241
+Total Time(secs): 0.052773
+Points before: 111763
+Points after : 63418
+Points removed : 48345
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.046592
+Classification Time(secs): 0.007273
+Total Time(secs): 0.053865
+Points before: 111601
+Points after : 64224
+Points removed : 47377
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.048310
+Classification Time(secs): 0.004979
+Total Time(secs): 0.053289
+Points before: 111678
+Points after : 64153
+Points removed : 47525
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.044420
+Classification Time(secs): 0.006613
+Total Time(secs): 0.051033
+Points before: 111722
+Points after : 64589
+Points removed : 47133
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.045421
+Classification Time(secs): 0.005325
+Total Time(secs): 0.050746
+Points before: 111740
+Points after : 64822
+Points removed : 46918
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.051481
+Classification Time(secs): 0.006283
+Total Time(secs): 0.057764
+Points before: 111693
+Points after : 65590
+Points removed : 46103
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.047602
+Classification Time(secs): 0.005566
+Total Time(secs): 0.053168
+Points before: 111722
+Points after : 65708
+Points removed : 46014
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.046370
+Classification Time(secs): 0.005375
+Total Time(secs): 0.051745
+Points before: 111697
+Points after : 66128
+Points removed : 45569
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.049605
+Classification Time(secs): 0.005584
+Total Time(secs): 0.055189
+Points before: 111783
+Points after : 66582
+Points removed : 45201
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.047568
+Classification Time(secs): 0.005917
+Total Time(secs): 0.053485
+Points before: 111865
+Points after : 67049
+Points removed : 44816
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.043823
+Classification Time(secs): 0.007140
+Total Time(secs): 0.050963
+Points before: 111841
+Points after : 67423
+Points removed : 44418
+-----------------------------------
+-------------START-----------------
+Grid Divison Time(secs): 0.028662
+Classification Time(secs): 0.004033
+Total Time(secs): 0.032695
+Points before: 69719
+Points after : 47266
+Points removed : 22453
+-----------------------------------
